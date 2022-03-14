@@ -1,7 +1,7 @@
 # Game-of-Life
 
 ## Description
-![image](https://user-images.githubusercontent.com/66129931/158246113-9709696c-6ae8-41d9-b6a4-2e7553785cd9.png)
+![image](https://user-images.githubusercontent.com/66129931/158246253-b1dfe6c4-5440-480d-b6b0-01781d4ec914.png)
 
 
 ## Features
