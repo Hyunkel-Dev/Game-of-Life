@@ -3,7 +3,7 @@ from pygame.math import Vector2
 
 
 # the dimensions of the displayed window
-WINDOW_SIZE = Vector2(1280, 720)
+WINDOW_SIZE = Vector2(1280-2, 640-32)
 # the background color of the displayed window
 WINDOW_COLOR = (30, 30, 30)
 

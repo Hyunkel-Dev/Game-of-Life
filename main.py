@@ -42,6 +42,7 @@ while True:
             sys.exit()
         elif event.type == pygame.MOUSEBUTTONDOWN and event.button == pygame.BUTTON_LEFT and not grid.is_running:
             grid.set_cell_value(Vector2(event.pos))
+            grid.click(Vector2(event.pos))
             click = True
         elif event.type == pygame.MOUSEBUTTONUP and event.button == pygame.BUTTON_LEFT and click:
             click = False
